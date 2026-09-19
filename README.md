@@ -12,6 +12,17 @@ Patch State
 |  |  |  History
 
 However this can probably be discussed and changed around
+For example, macro inclusion could be in another page
+
+Patch State                  Macro usage
+|  Glitch Type               |  Setup
+|  |  Glitch                 
+|  |  |  Overview    
+|  |  |  Methods
+|  |  |  Application
+|  |  |  Mechanism
+|  |  |  History
+
 My question to everyone probably is what will be a dropdown and what would be a header
 
 So far I've kept patch state and glitch type as headings while the rest remain drop downs but that is definitely open to change. 
