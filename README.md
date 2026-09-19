@@ -168,6 +168,8 @@ The pressure fling is...
 
 ### Clips
 ### Miscellaneous 
+## Patched
+<!-- Template -->
 <details>
 <summary><strong>Template</strong></summary>
 <br>
@@ -210,4 +212,4 @@ Lorem ipsum dolor
 
 </details>
 
-## Patched
+
