@@ -167,6 +167,174 @@ The pressure fling is...
 </details>
 
 ### Clips
+<details>
+<summary><strong>Crawl Clip</strong></summary>
+<br>
+<details>
+<summary>Overview</summary>  
+Crawl clip allows for the user to clip through [unknown stud amount] stud walls by freezing the game during the crawling animation
+</details>
+
+<details>
+  <summary>Methods</summary>
+Crawl and as the animation begins, freeze the game (either by macro or by right clicking the window). Aim to freeze around the moment the backpack disappears and freeze for roughly 1/2 a second.
+</details>
+
+<details>
+  <summary>Application</summary>
+
+  <ul>
+    <li>Clipping on top of sewers</li>
+    <li>Clipping in tower</li>
+    <li>Clipping into the break room</li>
+    <li>Clipping out of the guards room</li>
+    <li>Clipping through criminal base door </li>
+    <li>Clipping through criminal base wall</li>
+    <li>Clipping in vending machine</li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary>Mechanism</summary>
+
+  Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>History</summary>
+  
+  Lorem ipsum dolor
+</details>
+
+</details>
+
+<details>
+<summary><strong>Floofy Clip</strong></summary>
+<br>
+<details>
+<summary>Overview</summary>  
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Methods</summary>
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Application</summary>
+
+  <ul>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor/li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary>Mechanism</summary>
+
+  Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>History</summary>
+  
+  Lorem ipsum dolor
+</details>
+
+</details>
+
+<details>
+<summary><strong>Rotate Clip</strong></summary>
+<br>
+<details>
+<summary>Overview</summary>  
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Methods</summary>
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Application</summary>
+
+  <ul>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor/li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary>Mechanism</summary>
+
+  Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>History</summary>
+  
+  Lorem ipsum dolor
+</details>
+
+</details>
+
+<details>
+<summary><strong>Speed Clip</strong></summary>
+<br>
+<details>
+<summary>Overview</summary>  
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Methods</summary>
+Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>Application</summary>
+
+  <ul>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor/li>
+    <li>Lorem ipsum dolor</li>
+    <li>Lorem ipsum dolor</li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary>Mechanism</summary>
+
+  Lorem ipsum dolor
+</details>
+
+<details>
+  <summary>History</summary>
+  
+  Lorem ipsum dolor
+</details>
+
+</details>
+
 ### Miscellaneous 
 ## Patched
 <!-- Template -->
