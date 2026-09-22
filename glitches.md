@@ -2,7 +2,9 @@
 ## Flings
 ### Pressure Fling
 ### DAS fling
+### Car fling
 ## Clips
+### Floofy Clip
 ### Crawl Clip
 ### Rotate Clip
 ### Speed Clip
