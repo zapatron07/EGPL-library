@@ -256,25 +256,29 @@ Lorem ipsum dolor
 <br>
 <details>
 <summary>Overview</summary>  
-Lorem ipsum dolor
+Rotate clip uses two 180 degree turns in quick succession in order to achieve a clip through thin places.
 </details>
 
 <details>
   <summary>Methods</summary>
-Lorem ipsum dolor
+[Not certain if rotate clip is possible without macro but I do think it is] </br>
+  Macro:</br>
+  In rapid succession, press the keybind to rotate 180 degrees. (On spencer's, the wallhop macro can be used for this) </br>
+  Non Macro:</br>
+  Freeze the game, rotate 180 degrees, unfreeze and then freeze again. Finally rotate 180 degrees and unfreeze.
+  
 </details>
 
 <details>
   <summary>Application</summary>
 
   <ul>
-    <li>Lorem ipsum dolor</li>
-    <li>Lorem ipsum dolor</li>
-    <li>Lorem ipsum dolor</li>
-    <li>Lorem ipsum dolor</li>
-    <li>Lorem ipsum dolor/li>
-    <li>Lorem ipsum dolor</li>
-    <li>Lorem ipsum dolor</li>
+    <li>Clipping through cell bars</li>
+    <li>Clipping through front gates</li>
+    <li>Clipping through fences</li>
+    <li>Clipping from armoury to courtyard</li>
+    <li>Clipping through roof windows</li>
+    <li>Clipping through concierge window</li>
   </ul>
   
 </details>
@@ -298,7 +302,7 @@ Lorem ipsum dolor
 <br>
 <details>
 <summary>Overview</summary>  
-Lorem ipsum dolor
+Not a prison life specific glitch; uses speed to force the character through thin walls
 </details>
 
 <details>
